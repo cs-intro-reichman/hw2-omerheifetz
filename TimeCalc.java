@@ -1,6 +1,6 @@
 public class TimeCalc {
     public static void main(String[] args) {
-        // Replace this comment with your code
+        // Replace this comment with your code worked great
         String timeIn = args [0];
         String hourIn = "" + timeIn.charAt(0) + timeIn.charAt(1);
         String minuteIn = "" + timeIn.charAt(3) + timeIn.charAt(4);

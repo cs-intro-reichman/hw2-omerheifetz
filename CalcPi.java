@@ -1,4 +1,4 @@
-// Computes an approximation of PI.
+// Computes an approximation of PI. worked great
 public class CalcPi {
 	public static void main(String [] args) { 
 	    // Replace this comment with your code
